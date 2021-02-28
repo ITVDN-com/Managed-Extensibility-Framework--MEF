@@ -1,0 +1,14 @@
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\SDKInterface\bin\Debug\SDKInterface.dll
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\SDKInterface\bin\Debug\SDKInterface.pdb
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\SDKInterface\obj\Debug\SDKInterface.dll
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\SDKInterface\obj\Debug\SDKInterface.pdb
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDKInterface\bin\Debug\SDKInterface.dll
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDKInterface\bin\Debug\SDKInterface.pdb
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDKInterface\obj\Debug\SDKInterface.csprojResolveAssemblyReference.cache
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDKInterface\obj\Debug\SDKInterface.dll
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDKInterface\obj\Debug\SDKInterface.pdb
+C:\Users\David\Documents\Courses\C#Professional\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDKInterface\bin\Debug\SDKInterface.dll
+C:\Users\David\Documents\Courses\C#Professional\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDKInterface\bin\Debug\SDKInterface.pdb
+C:\Users\David\Documents\Courses\C#Professional\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDKInterface\obj\Debug\SDKInterface.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\C#Professional\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDKInterface\obj\Debug\SDKInterface.dll
+C:\Users\David\Documents\Courses\C#Professional\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDKInterface\obj\Debug\SDKInterface.pdb

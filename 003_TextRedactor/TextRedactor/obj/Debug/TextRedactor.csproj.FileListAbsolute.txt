@@ -1,0 +1,15 @@
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\bin\Debug\TextRedactor.exe.config
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\bin\Debug\TextRedactor.exe
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\bin\Debug\TextRedactor.pdb
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Debug\TextRedactor.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Debug\MainWindow.baml
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Debug\MainWindow.g.cs
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Debug\App.g.cs
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Debug\TextRedactor_MarkupCompile.cache
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Debug\TextRedactor.g.resources
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Debug\TextRedactor.Properties.Resources.resources
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Debug\TextRedactor.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Debug\TextRedactor.exe
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Debug\TextRedactor.pdb
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\bin\Debug\PlugIn.dll
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\bin\Debug\PlugIn.pdb

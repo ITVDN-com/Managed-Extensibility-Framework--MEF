@@ -1,0 +1,5 @@
+<Modules>
+  <Module PersistentId="CDF4EECF-96E6-45F7-A75C-4FC312CB6071" ModuleId="HostAssembly" />
+  <Module PersistentId="3D9BA868-C5F9-4F6B-AD9D-CCEADCE15064" ModuleId="SDKInterface" />
+  <Module PersistentId="3393F465-621E-4733-8475-1C9786E5BD56" ModuleId="SDK_Plugin" />
+</Modules>

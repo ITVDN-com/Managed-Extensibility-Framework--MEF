@@ -1,0 +1,39 @@
+﻿<Window x:Class="TextRedactor.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="581" Width="815">
+    <Grid>
+        <Menu Height="19" VerticalAlignment="Top">
+            <Menu.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0"/>
+                    <GradientStop Color="White" Offset="1"/>
+                    <GradientStop Color="#FFC2CCE6"/>
+                    <GradientStop Color="#FFE3E7F3" Offset="0.151"/>
+                </LinearGradientBrush>
+            </Menu.Background>
+            <MenuItem Header="File">
+                <MenuItem Header="Create" Click="mnuNew_Click"/>
+                <MenuItem Header="Open" Click="mnuOpen_Click"/>
+                <MenuItem Header="Save" Click="mnuSave_Click"/>
+                <Separator/>
+                <MenuItem Header="Exit" Click="mnuExit_Click"/>
+            </MenuItem>
+            <MenuItem Header="AddIns" Name="menuAddins"/>
+            <MenuItem Header="Manage">
+                <MenuItem Header="_Refresh Extensions" Click="OnRefreshExtensions"  />
+            </MenuItem>
+        </Menu>
+        
+        <DockPanel  Margin="0,24,0,0"  >
+            <DockPanel DockPanel.Dock="Top" Name="addInsContainer">
+                
+            </DockPanel>
+            <RichTextBox Name="mainTextBox" Grid.Row="1" Foreground="Black" FontSize="14" BorderBrush="#FFE8E8E8" SelectionBrush="#FF4968D3" Margin="10">
+                <FlowDocument>
+                    <Paragraph/>
+                </FlowDocument>
+            </RichTextBox>
+        </DockPanel>
+    </Grid>
+</Window>

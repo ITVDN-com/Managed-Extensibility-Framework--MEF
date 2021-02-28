@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\003_Import_Export\obj\Debug\003_Import_Export.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\003_Import_Export\bin\Debug\003_Import_Export.exe.config
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\003_Import_Export\bin\Debug\003_Import_Export.exe
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\003_Import_Export\bin\Debug\003_Import_Export.pdb
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\003_Import_Export\obj\Debug\003_Import_Export.exe
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\003_Import_Export\obj\Debug\003_Import_Export.pdb

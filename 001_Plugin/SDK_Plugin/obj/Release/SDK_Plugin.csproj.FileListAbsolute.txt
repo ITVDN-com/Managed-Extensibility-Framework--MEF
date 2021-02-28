@@ -1,0 +1,7 @@
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\bin\Release\SDK_Plugin.dll
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\bin\Release\SDK_Plugin.pdb
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\bin\Release\SDKInterface.dll
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\bin\Release\SDKInterface.pdb
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\obj\Release\SDK_Plugin.csprojResolveAssemblyReference.cache
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\obj\Release\SDK_Plugin.dll
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\obj\Release\SDK_Plugin.pdb

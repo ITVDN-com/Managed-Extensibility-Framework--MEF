@@ -1,0 +1,11 @@
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\ChangeColorExt\obj\Debug\ChangeColorExt.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\ChangeColorExt\bin\Debug\ChangeColorExt.dll
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\ChangeColorExt\bin\Debug\ChangeColorExt.pdb
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\ChangeColorExt\bin\Debug\PlugIn.dll
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\ChangeColorExt\bin\Debug\PlugIn.pdb
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\ChangeColorExt\obj\Debug\ChangeColorExt.dll
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\ChangeColorExt\obj\Debug\ChangeColorExt.pdb
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\ChangeColorExt\obj\Debug\ChangeColorUserControl.baml
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\ChangeColorExt\obj\Debug\ChangeColorUserControl.g.cs
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\ChangeColorExt\obj\Debug\ChangeColorExt_MarkupCompile.cache
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\ChangeColorExt\obj\Debug\ChangeColorExt.g.resources

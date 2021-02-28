@@ -1,0 +1,17 @@
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\bin\Release\TextRedactor.exe.config
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\bin\Release\TextRedactor.exe
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\bin\Release\TextRedactor.pdb
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\bin\Release\ChangeColorExt.dll
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\bin\Release\PlugIn.dll
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\bin\Release\ChangeColorExt.pdb
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\bin\Release\PlugIn.pdb
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Release\TextRedactor.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Release\MainWindow.baml
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Release\MainWindow.g.cs
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Release\App.g.cs
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Release\TextRedactor_MarkupCompile.cache
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Release\TextRedactor.g.resources
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Release\TextRedactor.Properties.Resources.resources
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Release\TextRedactor.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Release\TextRedactor.exe
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\TextRedactor\obj\Release\TextRedactor.pdb

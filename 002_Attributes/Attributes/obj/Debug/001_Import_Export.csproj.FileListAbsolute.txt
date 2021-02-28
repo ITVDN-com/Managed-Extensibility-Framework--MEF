@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\Attributes\bin\Debug\Attributes.exe.config
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\Attributes\bin\Debug\Attributes.exe
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\Attributes\bin\Debug\Attributes.pdb
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\Attributes\obj\Debug\Attributes.exe
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\Attributes\obj\Debug\Attributes.pdb
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\Attributes\obj\Debug\001_Import_Export.csprojResolveAssemblyReference.cache

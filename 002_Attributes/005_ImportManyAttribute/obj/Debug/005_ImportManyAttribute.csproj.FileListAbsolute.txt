@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\005_ImportManyAttribute\bin\Debug\005_ImportManyAttribute.exe.config
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\005_ImportManyAttribute\bin\Debug\005_ImportManyAttribute.exe
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\005_ImportManyAttribute\bin\Debug\005_ImportManyAttribute.pdb
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\005_ImportManyAttribute\obj\Debug\005_ImportManyAttribute.exe
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\005_ImportManyAttribute\obj\Debug\005_ImportManyAttribute.pdb
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\005_ImportManyAttribute\obj\Debug\005_ImportManyAttribute.csprojResolveAssemblyReference.cache

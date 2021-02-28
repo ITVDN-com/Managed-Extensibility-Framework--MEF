@@ -1,0 +1,4 @@
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\PlugIn\bin\Release\PlugIn.dll
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\PlugIn\bin\Release\PlugIn.pdb
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\PlugIn\obj\Release\PlugIn.dll
+C:\Users\David\Desktop\MEF\MEF\TextRedactor\TextRedactor\PlugIn\obj\Release\PlugIn.pdb

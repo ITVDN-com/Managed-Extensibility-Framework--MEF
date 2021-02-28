@@ -1,0 +1,7 @@
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\Assemblies\bin\Debug\Assemblies.exe
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\Assemblies\bin\Debug\Assemblies.pdb
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\Assemblies\obj\Debug\Assemblies.exe
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\Assemblies\obj\Debug\Assemblies.pdb
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\Assemblies\obj\Debug\Assemblies.csprojResolveAssemblyReference.cache
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\Assemblies\bin\Debug\SDKInterface.dll
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\Assemblies\bin\Debug\SDKInterface.pdb

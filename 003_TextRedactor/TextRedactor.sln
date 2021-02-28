@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextRedactor", "TextRedactor\TextRedactor.csproj", "{2C1B040F-B507-41A5-820F-4BAF1D43D5B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextReaderContract", "PlugIn\TextReaderContract.csproj", "{8A10AA0F-63DC-4BCF-83AF-0E5FC3B6FBC4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChangeColorExt", "ChangeColorExt\ChangeColorExt.csproj", "{5F286D10-B231-48E9-A016-3B56B5077CF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C1B040F-B507-41A5-820F-4BAF1D43D5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C1B040F-B507-41A5-820F-4BAF1D43D5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C1B040F-B507-41A5-820F-4BAF1D43D5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C1B040F-B507-41A5-820F-4BAF1D43D5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A10AA0F-63DC-4BCF-83AF-0E5FC3B6FBC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A10AA0F-63DC-4BCF-83AF-0E5FC3B6FBC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A10AA0F-63DC-4BCF-83AF-0E5FC3B6FBC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A10AA0F-63DC-4BCF-83AF-0E5FC3B6FBC4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F286D10-B231-48E9-A016-3B56B5077CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F286D10-B231-48E9-A016-3B56B5077CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F286D10-B231-48E9-A016-3B56B5077CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F286D10-B231-48E9-A016-3B56B5077CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

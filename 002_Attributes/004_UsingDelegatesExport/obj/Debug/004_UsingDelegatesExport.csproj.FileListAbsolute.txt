@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\004_UsingDelegatesExport\bin\Debug\004_UsingDelegatesExport.exe.config
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\004_UsingDelegatesExport\obj\Debug\004_UsingDelegatesExport.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\004_UsingDelegatesExport\bin\Debug\004_UsingDelegatesExport.exe
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\004_UsingDelegatesExport\bin\Debug\004_UsingDelegatesExport.pdb
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\004_UsingDelegatesExport\obj\Debug\004_UsingDelegatesExport.exe
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\004_UsingDelegatesExport\obj\Debug\004_UsingDelegatesExport.pdb

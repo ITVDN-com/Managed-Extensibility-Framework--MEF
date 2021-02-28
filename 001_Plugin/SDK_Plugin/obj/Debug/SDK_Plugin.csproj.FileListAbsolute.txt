@@ -1,0 +1,21 @@
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\SDK_Plugin\bin\Debug\SDK_Plugin.dll
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\SDK_Plugin\bin\Debug\SDK_Plugin.pdb
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\SDK_Plugin\obj\Debug\SDK_Plugin.dll
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\SDK_Plugin\obj\Debug\SDK_Plugin.pdb
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\SDK_Plugin\obj\Debug\SDK_Plugin.csprojResolveAssemblyReference.cache
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\SDK_Plugin\bin\Debug\SDKInterface.dll
+c:\users\oleg\documents\visual studio 2012\AppDomains\ConsoleApplication1\SDK_Plugin\bin\Debug\SDKInterface.pdb
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\bin\Debug\SDK_Plugin.dll
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\bin\Debug\SDK_Plugin.pdb
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\bin\Debug\SDKInterface.dll
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\bin\Debug\SDKInterface.pdb
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\obj\Debug\SDK_Plugin.csprojResolveAssemblyReference.cache
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\obj\Debug\SDK_Plugin.dll
+C:\Users\Aleksey\Desktop\CBS Courses\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\obj\Debug\SDK_Plugin.pdb
+C:\Users\David\Documents\Courses\C#Professional\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\bin\Debug\SDK_Plugin.dll
+C:\Users\David\Documents\Courses\C#Professional\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\bin\Debug\SDK_Plugin.pdb
+C:\Users\David\Documents\Courses\C#Professional\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\bin\Debug\SDKInterface.dll
+C:\Users\David\Documents\Courses\C#Professional\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\bin\Debug\SDKInterface.pdb
+C:\Users\David\Documents\Courses\C#Professional\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\obj\Debug\SDK_Plugin.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Courses\C#Professional\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\obj\Debug\SDK_Plugin.dll
+C:\Users\David\Documents\Courses\C#Professional\C# Professional\017 - Домены приложений. NT-службы\002_Plugin\SDK_Plugin\obj\Debug\SDK_Plugin.pdb

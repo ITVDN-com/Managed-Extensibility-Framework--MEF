@@ -1,0 +1,6 @@
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\006_IImporstSatisfiedNotification\bin\Debug\006_IImporstSatisfiedNotification.exe.config
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\006_IImporstSatisfiedNotification\bin\Debug\006_IImporstSatisfiedNotification.exe
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\006_IImporstSatisfiedNotification\bin\Debug\006_IImporstSatisfiedNotification.pdb
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\006_IImporstSatisfiedNotification\obj\Debug\006_IImporstSatisfiedNotification.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\006_IImporstSatisfiedNotification\obj\Debug\006_IImporstSatisfiedNotification.exe
+C:\Users\David\Desktop\MEF\MEF\Attributes\Attributes\006_IImporstSatisfiedNotification\obj\Debug\006_IImporstSatisfiedNotification.pdb

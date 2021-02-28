@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HostAssembly", "Assemblies\HostAssembly.csproj", "{CDF4EECF-96E6-45F7-A75C-4FC312CB6071}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDK_Plugin", "SDK_Plugin\SDK_Plugin.csproj", "{3393F465-621E-4733-8475-1C9786E5BD56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SDKInterface", "SDKInterface\SDKInterface.csproj", "{3D9BA868-C5F9-4F6B-AD9D-CCEADCE15064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDF4EECF-96E6-45F7-A75C-4FC312CB6071}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDF4EECF-96E6-45F7-A75C-4FC312CB6071}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CDF4EECF-96E6-45F7-A75C-4FC312CB6071}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CDF4EECF-96E6-45F7-A75C-4FC312CB6071}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3393F465-621E-4733-8475-1C9786E5BD56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3393F465-621E-4733-8475-1C9786E5BD56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3393F465-621E-4733-8475-1C9786E5BD56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3393F465-621E-4733-8475-1C9786E5BD56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D9BA868-C5F9-4F6B-AD9D-CCEADCE15064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D9BA868-C5F9-4F6B-AD9D-CCEADCE15064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D9BA868-C5F9-4F6B-AD9D-CCEADCE15064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D9BA868-C5F9-4F6B-AD9D-CCEADCE15064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
